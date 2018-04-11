@@ -1,7 +1,8 @@
 *.dat
 results/
 
+
 #can comment in ignore file so you know why you are ignoring those listed files especially when you are tracking the ignore file
 !info.dat
 
-#YOLO
+#exclusion of logs
